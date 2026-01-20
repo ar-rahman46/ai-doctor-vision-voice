@@ -1,3 +1,7 @@
+# 🩺 AI Doctor with Vision & Voice
+
+## 🚀 Live Demo
+👉 https://huggingface.co/spaces/abdulrahman46/ai-doctor-vision-voice
 ---
 title: Ai Doctor Vision Voice
 emoji: 📊
@@ -12,3 +16,19 @@ short_description: AI Doctor with Vision and Voice using speech, text, and medi
 ---
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+## 🔥 Features
+- 🎙️ Voice input (multilingual)
+- 🖼️ Medical image analysis
+- ✍️ Text-based symptom input
+- 🌍 Supports Tamil, Urdu, Hindi, Arabic, Malayalam & more
+- 🔊 Doctor voice response (TTS)
+
+## 🛠️ Tech Stack
+- Python
+- Gradio
+- Hugging Face Spaces
+- Vision + LLM
+- gTTS / Speech Recognition
+
+## ⚠️ Disclaimer
+This project is for educational purposes only and not a replacement for professional medical advice.
