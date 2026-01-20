@@ -32,3 +32,14 @@ Check out the configuration reference at https://huggingface.co/docs/hub/spaces-
 
 ## ⚠️ Disclaimer
 This project is for educational purposes only and not a replacement for professional medical advice.
+---
+
+## 👨‍💻 Author
+
+**Abdul Rahman**  
+AI & Full-Stack Developer  
+📍 India  
+
+🔗 GitHub: https://github.com/ar-rahman46  
+🤗 Hugging Face: https://huggingface.co/abdulrahman46  
+🚀 Live Demo: https://huggingface.co/spaces/abdulrahman46/ai-doctor-vision-voice
