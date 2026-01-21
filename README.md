@@ -1,37 +1,54 @@
 # 🩺 AI Doctor with Vision & Voice
 
-## 🚀 Live Demo
+🚀 **Live Demo:**  
 👉 https://huggingface.co/spaces/abdulrahman46/ai-doctor-vision-voice
----
-title: Ai Doctor Vision Voice
-emoji: 📊
-colorFrom: purple
-colorTo: red
-sdk: gradio
-sdk_version: 6.3.0
-app_file: app.py
-pinned: false
-license: apache-2.0
-short_description: AI Doctor with Vision and Voice using speech, text, and medi
+
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
-## 🔥 Features
-- 🎙️ Voice input (multilingual)
-- 🖼️ Medical image analysis
-- ✍️ Text-based symptom input
-- 🌍 Supports Tamil, Urdu, Hindi, Arabic, Malayalam & more
-- 🔊 Doctor voice response (TTS)
+## 📌 Overview
+AI Doctor with Vision & Voice is a multilingual medical assistant that:
+- Accepts **voice or text input**
+- Analyzes **medical images**
+- Responds in the **same language as the user**
+- Supports **Tamil, Urdu, Hindi, Malayalam, Arabic & English**
+- Works with **Roman languages (Tanglish, Roman Urdu)**
+
+> ⚠️ This project is for **educational purposes only** and is not a substitute for professional medical advice.
+
+---
+
+## ✨ Features
+- 🎙️ Speech-to-Text (Patient voice)
+- 🖼️ Medical Image Analysis
+- 🌍 Automatic Language Detection
+- 🔊 Text-to-Speech Doctor Response
+- 🧠 AI Vision + Reasoning
+
+---
 
 ## 🛠️ Tech Stack
 - Python
 - Gradio
 - Hugging Face Spaces
-- Vision + LLM
-- gTTS / Speech Recognition
+- gTTS
+- Groq Speech API
 
+<<<<<<< HEAD
 ## ⚠️ Disclaimer
 This project is for educational purposes only and not a replacement for professional medical advice.
+=======
+---
+
+## 🚀 Run Locally
+
+```bash
+git clone https://github.com/ar-rahman46/ai-doctor-vision-voice.git
+cd ai-doctor-vision-voice
+pip install -r requirements.txt
+python app.py
+---
+
+>>>>>>> a500c9f (Add author section and improve README)
 ---
 
 ## 👨‍💻 Author
